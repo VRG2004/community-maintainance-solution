@@ -63,7 +63,7 @@ No backend or APIs are used. All data is static/mock data to demonstrate user ex
 
 ## Live Demo
 🔗 **Live URL:**  
-(Add your deployed GitHub Pages or Figma prototype link here)
+(https://vrg2004.github.io/community-maintainance-solution/)
 
 ---
 
@@ -85,7 +85,7 @@ No backend or APIs are used. All data is static/mock data to demonstrate user ex
 ---
 
 ## Author
-- Designed and developed by **[Your Name]**
+- Designed and developed by VENKATA RISHI GUPTA .T
 
 ---
 
